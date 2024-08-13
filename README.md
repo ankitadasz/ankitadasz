@@ -3,7 +3,6 @@
 
 <br>
 
-<img align="right" alt="Coding" width="270" src="https://user-images.githubusercontent.com/124916435/254095557-2672781b-36ee-4e38-8f87-c6c8f010bff9.gif">
 
 👩‍💻About Me ::
 
