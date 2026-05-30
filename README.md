@@ -78,6 +78,6 @@
 
 <div align="center">
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitadasz&show_icons=true&theme=highcontrast" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ankitadasz&theme=merko&hide_border=false" alt="snehasishdasz" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ankitadasz&theme=merko&hide_border=false" alt="ankitadasz" />
 </div>
 
