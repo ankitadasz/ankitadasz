@@ -8,7 +8,6 @@
   I'm Ankita
 </h1>
 
----
 
 ## 👩‍💻 About Me
 
@@ -22,13 +21,13 @@
 - 📄 Know about my experiences:  
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ankitadasz/)
 
----
+
 
 <p align="center">
   <img width="90%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif">
 </p>
 
----
+
 
 ## 🌐 Languages and Tools
 
@@ -50,7 +49,7 @@
 
 </p>
 
----
+
 
 ## 🌩 GitHub Stats
 
@@ -61,7 +60,6 @@
 
 </div>
 
----
 
 ## 📈 Contribution Graph
 
