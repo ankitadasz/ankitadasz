@@ -7,7 +7,7 @@
 
 <br>
 
-## 👩‍💻 About Me ::
+ 👩‍💻 About Me ::
 
 <h3>😎 I'm a Developer.
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
