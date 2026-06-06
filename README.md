@@ -41,3 +41,8 @@
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ankitadasz&show_icons=true&theme=highcontrast" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitadasz&theme=merko&hide_border=false" alt="ankitadasz" />
 </div>
+
+## 📈 Contribution Graph
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ankitadasz&theme=merko&hide_border=true&area=true"/>
+</div>
