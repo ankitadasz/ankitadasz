@@ -16,8 +16,7 @@
 - 💬 Ask me about **FRONTEND, BACKEND**
 - 🌱 Exploring various Technologies
 - 📫 How to reach me **daszankita23@gmail.com**
-- 📄 Know about my experiences  
-  [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ankitadasz/)
+- 📄 Know about my experiences [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ankitadasz/)
 
 <br>
 
